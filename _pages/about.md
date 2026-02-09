@@ -1,34 +1,62 @@
 ---
-permalink: /
-title: "Home"
+permalink: /about/
+title: "About Me"
 author_profile: true
 redirect_from:
-  - /about/
   - /about.html
 ---
 
-Hi, I'm **ChaobinHu**.
+Hi, I'm **胡潮滨 (Chao-Bin Hu)**.
 
-I am interested in **[Your Research Interests]**, including **[Topic A]**, **[Topic B]**, and **[Topic C]**.
-Currently, I am **[Your position]** at **[Your institution/company]**.
+I am from the **School of Biomedical Engineering, Southern Medical University**.  
+My research focuses on **medical image processing and reconstruction algorithms**, especially combining **artificial intelligence** with advanced biomedical imaging systems.
 
-### Research Interests
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+---
 
-### News
-- **2026.02**: Launched my personal academic homepage.
-- **2025.XX**: [Add one highlight here, e.g., paper accepted / started a new role].
+## Research Interests
 
-### Selected Publications
-You can find the full list on the **[Publications](/publications/)** page.
+My research interests include:
 
-- Author1, **ChaobinHu**, Author3. *Paper Title*. Conference/Journal, Year.
-- **ChaobinHu**, Author2. *Paper Title*. Conference/Journal, Year.
+- Medical image processing, analysis, and reconstruction  
+- Artificial intelligence methods for biomedical imaging  
+- Photoacoustic computed tomography (PACT)  
+- PET/CT imaging analysis and multimodal reconstruction  
 
-### Contact
-- Email: **cbinhu95@gmail.com**
-- Google Scholar: [link]({{ site.author.googlescholar }})
-- ORCID: [link]({{ site.author.orcid }})
-- GitHub: [link](https://github.com/{{ site.author.github }})
+---
+
+## Awards & Honors
+
+I have received multiple academic and leadership honors, including:
+
+- 硕士国家奖学金，2025年  
+- 南方医科大学一等奖学金，2022年
+- 南方医科大学二等奖学金，2021年
+- 生物医学工程学院“高尚”奖学金，2022年
+- 南方医科大学学业一等奖学金，2024年
+- 南方医科大学学业一等奖学金，2024年
+- 南方医科大学优秀学生，2021年
+- 南方医科大学优秀学生，2022年
+- 南方医科大学优秀学生干部，2020年
+- 南方医科大学优秀学生干部，2021年
+- 南方医科大学优秀共青团员，2021年
+- 南方医科大学优秀研究生，2024年
+- 南方医科大学优秀研究生，2025年
+- 南方医科大学优秀研究生骨干，2024年
+- 南方医科大学优秀研究生骨干，2025年
+
+
+### Competitions & Innovation Awards
+
+- 全国大学生数学建模竞赛广东省分赛三等奖，2021年
+- 第七届全国大学生生物医学工程创新设计竞赛三等奖，2022年
+- 第十届全国大学生生物医学工程创新设计竞赛一等奖，2025年
+- 第十届全国大学生生物医学工程创新设计竞赛三等奖，2025年
+
+---
+
+## Contact
+
+- Email: **cbinhu95@gmail.com**  
+- Google Scholar: [Profile]({{ site.author.googlescholar }})  
+- ORCID: [Profile]({{ site.author.orcid }})  
+- GitHub: [CbinHu](https://github.com/{{ site.author.github }})
